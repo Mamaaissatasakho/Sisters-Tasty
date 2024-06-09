@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Systers-Tasty/static/css/main.f855e6bc.css",
+    "main.js": "/Systers-Tasty/static/js/main.07d7d28e.js",
+    "static/js/453.824584e9.chunk.js": "/Systers-Tasty/static/js/453.824584e9.chunk.js",
+    "static/media/sister.png": "/Systers-Tasty/static/media/sister.ce716a3771d299083fec.png",
+    "index.html": "/Systers-Tasty/index.html",
+    "main.f855e6bc.css.map": "/Systers-Tasty/static/css/main.f855e6bc.css.map",
+    "main.07d7d28e.js.map": "/Systers-Tasty/static/js/main.07d7d28e.js.map",
+    "453.824584e9.chunk.js.map": "/Systers-Tasty/static/js/453.824584e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.07d7d28e.js"
+  ]
+}
